@@ -116,6 +116,17 @@
  <br/>   
 
 
+ ### 📌 실시간 메모장
+
+- 직원/관리자는 실시간 메모장 기능을 사용할 수 있습니다.
+- 메모장은 중요 공지나 필요한 사항을 기재할 수 있습니다.
+
+ <img src="https://github.com/panghunJO/HitechProject/assets/157236060/5a92b7a2-3e41-400e-b6a0-582b0ab6f2aa" alt="Notepad">
+
+ - :smiley:[실시간 메모장 위키](https://github.com/panghunJO/HitechProject/wiki/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%AA%A8%EC%9E%A5)
+
+ <br/>   
+
 
 <br/>
 <br/>
