@@ -50,10 +50,11 @@
 | 언어                 | Java (JDK-17), HTML/CSS, JAVAScript |
 | UI                   | BootStrap            |
 | 서버               | Apache Tomcat/10.1.20   |
-| 프레임워크                  | Spring FrameWorks 3.2.5, MyBatis 3.0.3 |
+| 프레임워크                  | Spring Framework 3.2.5, MyBatis 3.0.3 |
 | DB             | MySQL            |
-| IDE      | Intellij Ultimate, HeidiSQL,DBeaver    |
+| IDE      | Intellij Ultimate, HeidiSQL, DBeaver    |
 | API, 라이브러리  | chart.js, fullcalender, Java Mail Sender, nurigo   |
+| 협업툴  | Notion, Github   |
 
 
 <br/>
@@ -62,47 +63,33 @@
 
 ## 🗂 디렉토리 구조
 
-```
-📦src
- ┣ 📂account
- ┣ 📂authls
- ┃ ┣ 📂images
- ┃ ┗ 📂styles
- ┣ 📂components
- ┃ ┗ 📂common
- ┣ 📂hooks
- ┣ 📂pages
- ┃ ┣ 📜ErrorPage.tsx
- ┃ ┣ 📜FindProjectPage.tsx
- ┃ ┣ 📜LoadingPage.tsx
- ┃ ┣ 📜MainPage.tsx
- ┃ ┣ 📜MyPage.tsx
- ┃ ┣ 📜ProjectDetailPage.tsx
- ┃ ┣ 📜ProjectEditPage.tsx
- ┃ ┣ 📜ProjectWritePage.tsx
- ┃ ┣ 📜PublicProfilePage.tsx
- ┃ ┗ 📜Root.tsx
- ┣ 📂recoil
- ┣ 📂routes
- ┣ 📂types
- ┣ 📂utils
- ┣ 📜App.tsx
- ┣ 📜index.tsx
- ┗ 📜react-app-env.d.ts
-```
-
-- `apis` : api 호출 관련 파일
-- `assets` : 로고 및 이미지 파일, 스타일 설정
-- `components` : 각 페이지 내부 컴포넌트
-- `hooks` : 커스텀 훅 파일
-- `pages` : 각 페이지 컴포넌트
-- `recoil` : 리코일 관련 파일
-- `routes` : 라우터 설정 파일
-- `types` : 타입 관련 파일
-- `utils` : 기타 공용으로 사용하는 파일
-
+├── README.md
+├── build
+│   ├── classes
+│   ├── generated
+│   ├── libs
+│   ├── reports
+│   ├── resolvedMainClassName
+│   ├── resources
+│   ├── test-results
+│   └── tmp
+├── build.gradle
+├── gradle
+│   └── wrapper
+├── gradlew
+├── gradlew.bat
+├── img
+├── log
+│   ├── test.log
+├── settings.gradle
+└── src
+    ├── main
+    └── test
 <br/>
 <br/>
+
+## 물리 데이터 모델
+<img src="https://github.com/panghunJO/HitechProject/assets/157236060/ce2fb658-0fe9-414e-b090-19953231fff3" alt="model">
 
 ## ⭐️ 주요 기능
 
