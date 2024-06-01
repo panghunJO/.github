@@ -63,6 +63,7 @@
 
 ## 🗂 디렉토리 구조
 
+```
 ├── README.md
 ├── build
 │   ├── classes
@@ -87,39 +88,24 @@
     └── test
 <br/>
 <br/>
+```
 
-## 물리 데이터 모델
+## ✨ 물리 데이터 모델
 <img src="https://github.com/panghunJO/HitechProject/assets/157236060/ce2fb658-0fe9-414e-b090-19953231fff3" alt="model">
 
 ## ⭐️ 주요 기능
 
-### 📌 프로젝트 찾기
+### 📌 회원가입
 
-- 포지션 별로 필터링 된 프로젝트를 확인할 수 있습니다.
-    
- <img src="https://user-images.githubusercontent.com/82587107/224244006-a5381fbf-59c0-4bcb-b719-2b6f58735935.gif" alt="필터링" width="60%">   
+- 일반회원은 회원가입을 할수 있습니다.
+- 회원가입 시 반드시 이메일 인증을 받아야 이용 가능합니다.
+
+ <img src="https://github.com/panghunJO/HitechProject/assets/157236060/5a74f52a-4f25-4ff1-bbf7-af6169a2f5b3" alt="회원가입" width="50%">
+ <img src="https://github.com/panghunJO/HitechProject/assets/157236060/e363983c-577c-45a6-8de2-c2786beccf4a" alt="회원인증" width="50%" align="right">
     
  <br/>   
 
-### 📌 프로젝트 지원 / 초대
 
-- 유저는 참여하고 싶은 프로젝트에 지원할 수 있습니다.
-- 작성자는 지원자 목록에서 함께 하고 싶은 지원자를 프로젝트에 초대할 수 있습니다.
-
-<div>
-    <img src="https://user-images.githubusercontent.com/82587107/224249794-9c3d1b24-8461-437a-979f-849f2087511f.gif" alt="지원하기" width="50%"><img src="https://user-images.githubusercontent.com/82587107/224249842-4872decf-b911-4ccf-ad10-95347fc29d00.gif" alt="초대하기" width="50%">    
-</div>
-
-<br/>
-
-### 📌 쪽지 / 알림
-
-- 유저는 다른 유저에게 쪽지를 보내고 받으며 커뮤니케이션 할 수 있습니다.
-- 프로젝트에 초대되거나, 지원한 프로젝트가 마감한 경우 알림이 갑니다.
-
-<div>
-    <img src="https://user-images.githubusercontent.com/82587107/224250012-1ad627b8-3a48-4ccc-bc39-69609a0162c2.gif" alt="쪽지보내기" width="50%"><img src="https://user-images.githubusercontent.com/82587107/224250016-0958e399-c7c7-41e9-93eb-31a9e989fd9f.gif" alt="쪽지-알림확인" width="50%">    
-</div>
 
 <br/>
 <br/>
