@@ -126,6 +126,20 @@
  - :smiley:[실시간 메모장 위키](https://github.com/panghunJO/HitechProject/wiki/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%AA%A8%EC%9E%A5)
 
  <br/>   
+ 
+
+  ### 📌 작업 등록
+
+- 직원/관리자는 회원이 예약한 작업을 등록할 수 있습니다.
+- 해당 시간에 이미 등록된 작업자는 작업자 목록에 나타나지 않습니다.
+
+ <img src="https://github.com/panghunJO/HitechProject/assets/157236060/9531eab6-e468-4bd1-992e-b9ff4f7cdc7c" alt="Res01" width="50%">
+  <img src="https://github.com/panghunJO/HitechProject/assets/157236060/61bf512a-270d-4427-a7f3-36565ab8b952" alt="Res02" width="50%" align="right">
+
+ - :smiley:[실시간 메모장 위키](https://github.com/panghunJO/HitechProject/wiki/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%AA%A8%EC%9E%A5)
+
+ <br/>   
+
 
  ### 📌 예약하기 기능
 
