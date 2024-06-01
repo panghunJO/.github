@@ -15,7 +15,7 @@
 
 ## ✨ 프로젝트 소개
 
-### Develop Together, Grow Together, Hi-Tech Auto Service
+### Hi-Tech Autoworks Service
 
 - HitechAutoworks 자동차 정비소 정비성 효율화 플랫폼입니다.
 - 현재 진행 중인 프로젝트는 정비소의 문제점을 개선하고 효율성을 증대시키는 것을 목표로 합니다.
@@ -136,8 +136,6 @@
  <img src="https://github.com/panghunJO/HitechProject/assets/157236060/9531eab6-e468-4bd1-992e-b9ff4f7cdc7c" alt="Res01" width="50%">
   <img src="https://github.com/panghunJO/HitechProject/assets/157236060/61bf512a-270d-4427-a7f3-36565ab8b952" alt="Res02" width="50%" align="right">
 
- - :smiley:[실시간 메모장 위키](https://github.com/panghunJO/HitechProject/wiki/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%AA%A8%EC%9E%A5)
-
  <br/>   
 
 
@@ -146,9 +144,23 @@
 - 손님은 시간대 별로 예약을 할 수 있습니다.
 - 선택하려는 시간에 모든 작업자가 작업에 등록되어 있으면 그 시간은 선택할 수 없습니다.
 
- <img src="https://github.com/panghunJO/HitechProject/assets/157236060/67d534c3-5c11-4841-8362-aace1ba5caa9" alt="작업예약">
+ <img src="https://github.com/panghunJO/HitechProject/assets/157236060/67d534c3-5c11-4841-8362-aace1ba5caa9" alt="작업예약" width="50%">
+   <img src="https://github.com/panghunJO/HitechProject/assets/157236060/6c70b971-977c-4c85-b443-23ff3c0d5e98" alt="작업예약2" width="50%" align="right">
 
  - 😊[작업자수와 예약시간 알고리즘 위키](https://github.com/panghunJO/HitechProject/wiki/%EC%9E%91%EC%97%85%EC%9E%90%EC%88%98%EC%99%80-%EC%98%88%EC%95%BD%EC%8B%9C%EA%B0%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
+ <br/>   
+
+
+  ### 📌 댓글/ 답글 기능
+
+- 예약 상세보기 페이지와 작업 상세 보기 페이지는 댓글과 답글을 쓸 수 있습니다.
+- 회원과 직원은 자기 댓글만 수정/삭제가 가능합니다.
+- 관리자는 모든 사람의 댓글을 수정/삭제 할 수 있습니다.
+
+ <img src="https://github.com/panghunJO/HitechProject/assets/157236060/16e44e8a-1bd7-4453-b25e-528c72f21187" alt="댓글">
+
+ - 😊[댓글 답글 기능 위키 ](https://github.com/panghunJO/HitechProject/wiki/%EB%8C%93%EA%B8%80-%EB%8B%B5%EA%B8%80-%EA%B8%B0%EB%8A%A5)
 
  <br/>   
 
