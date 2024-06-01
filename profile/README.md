@@ -50,7 +50,7 @@
 | 언어                 | Java (JDK-17), HTML/CSS, JAVAScript |
 | UI                   | BootStrap            |
 | 서버               | Apache Tomcat/10.1.20   |
-| 프레임워크                  | Spring Framework 3.2.5, MyBatis 3.0.3 |
+| 프레임워크                  | Spring Framework 3.2.5, MyBatis 3.0.3, Spring Security |
 | DB             | MySQL            |
 | IDE      | Intellij Ultimate, HeidiSQL, DBeaver    |
 | API, 라이브러리  | chart.js, fullcalender, Java Mail Sender, nurigo   |
