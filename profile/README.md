@@ -105,6 +105,16 @@
     
  <br/>   
 
+ ### 📌 아이디/비밀번호 찾기
+
+- 아이디/비밀번호 분실 시 찾기 기능을 사용할 수 있습니다.
+- 비밀번호 찾기 시 등록한 휴대폰 번호로 임시비밀번호가 발송됩니다.
+
+ <img src="https://github.com/panghunJO/HitechProject/assets/157236060/fcdf52c4-9a7b-4fe4-bfdf-0b02ef078b4a" alt="findpw" width="50%">
+ <img src="https://github.com/panghunJO/HitechProject/assets/157236060/f28a62e6-6d13-48fc-94cb-381ee2738c9f" alt="인증번호" width="45%" align="right">
+    
+ <br/>   
+
 
 
 <br/>
