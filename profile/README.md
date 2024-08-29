@@ -25,7 +25,7 @@
 
 **프로젝트 문서**
  
-| 📒 [팀 Notion ](https://ohgiraffers.notion.site/Hi-tech-AutoWorks-45e6acac76b5419b8c4fa502febe902c) | 🎉 [Figma](https://www.figma.com/design/c94BWil0qqwGGDw6tKQNzd/Hi-Tech-Auto-Works_Homepage?m=dev&node-id=0-1&t=hvOzNdFkjmxLUJpJ-1) | 💌 [Miro](https://miro.com/welcomeonboard/a0ZNT0Rua3pMemR6M1ZVQ2xkc0JveDlxNDhFdE5yV0E1cWwwYlhhQ2VLeWE3Sk1YVlpJN2RPbnVNTEFHMmdxRnwzNDU4NzY0NTg3Mjk1NzY0MjI4fDI=?share_link_id=468227781974)
+| 📒 [팀 Notion ](https://ohgiraffers.notion.site/Hi-tech-AutoWorks-45e6acac76b5419b8c4fa502febe902c?pvs=4) | 🎉 [Figma](https://www.figma.com/design/c94BWil0qqwGGDw6tKQNzd/Hi-Tech-Auto-Works_Homepage?m=dev&node-id=0-1&t=hvOzNdFkjmxLUJpJ-1) | 💌 [Miro](https://miro.com/welcomeonboard/a0ZNT0Rua3pMemR6M1ZVQ2xkc0JveDlxNDhFdE5yV0E1cWwwYlhhQ2VLeWE3Sk1YVlpJN2RPbnVNTEFHMmdxRnwzNDU4NzY0NTg3Mjk1NzY0MjI4fDI=?share_link_id=468227781974)
 <br/>
 <br/>
 <br/>
